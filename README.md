@@ -1,2 +1,2 @@
 # FetalMovement
-an application for fetalmovement counter
+an Android application for fetalmovement counter
