@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/helpMenu"
+        android:title="@string/help">
+    </item>
+    <item
+        android:id="@+id/historyMenu"
+        android:title="@string/history">
+    </item>
+    <item
+        android:id="@+id/exitMenu"
+        android:title="@string/exit">
+    </item>
+</menu>

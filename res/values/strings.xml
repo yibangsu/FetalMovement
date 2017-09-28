@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">小瓜妹妹逗逗仪</string>
+    <string name="total">总数</string>
+    <string name="max">连续胎动</string>
+    <string name="avail">实际胎动</string>
+    <string name="zero">0</string>
+    <string name="zero_timer">60:00</string>
+    <string name="kit">计数</string>
+    <string name="exit">退出</string>
+    <string name="contentDescription">progress img</string>
+    <string name="commit_to_stop">是否退出测量并保存记录？</string>
+    <string name="commit_to_exit">是否退出应用？</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="help">帮助</string>
+    <string name="history">记录</string>
+    <string name="help_content">有咩问题，直接问我啦</string>
+    <string name="date">时间</string>
+    <string name="five_min">5分钟连续胎动算1次。</string>
+</resources>
